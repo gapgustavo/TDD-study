@@ -14,3 +14,4 @@ def NumberCheck(var1):
 
 
 NumberCheck(5)
+NumberCheck(7)
